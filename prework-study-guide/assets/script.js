@@ -17,11 +17,3 @@ if (topic === 'HTML') {
 for(let i =0; i<topics.length; i++) {
     console.log(topics[i]);
 }
-/*
-const shapes = ["triangle","square","pentagon","circle"];
-
-for(let x = 0; x < shapes.length; x++) {
-    
-    console.log(shapes[x]);
-
-}*/
